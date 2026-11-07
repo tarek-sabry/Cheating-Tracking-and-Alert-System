@@ -76,7 +76,7 @@ Performance varies across behavior classes. In particular, `turning_head` requir
 
 ### 1. Clone the repository
 ```bash
-git clone YOUR_REPOSITORY_URL
+URL Kaggel : https://www.kaggle.com/code/tareksabry/cheating-tracking
 cd Cheating-Tracking-and-Alert-System
 ```
 
